@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "cataleya",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyCxtqcvPDwc8zD0umI7qRJs0Qqu-K3zb7k",
     whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
